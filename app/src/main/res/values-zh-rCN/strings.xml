@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoInputBootPIN</string>
+    <string name="text_about">请依次输入你手机开机时需要的PIN，若只有一个PIN，其他请留空。</string>
+    <string name="the_first_pin">第一个PIN</string>
+    <string name="the_second_pin">第二个PIN</string>
+    <string name="the_third_pin">第三个PIN</string>
+    <string name="input_pin_time_interval">模拟输入PIN时的时间间隔</string>
+    <string name="PIN_is_empty">你没有输入PIN，应用将不会自动输入PIN。</string>
+    <string name="apply_success">保存设置成功。</string>
+    <string name="apply_fail">保存设置失败。请检查此应用是否具有Root权限。</string>
+    <string name="apply">保存设置</string>
+</resources>

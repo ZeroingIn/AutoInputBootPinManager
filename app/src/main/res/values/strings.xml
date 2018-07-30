@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoInputBootPIN</string>
+    <string name="text_about">Please enter the PIN you need when you turn on your phone. If there is only one PIN, the other PIN is left blank.</string>
+    <string name="the_first_pin">the first PIN</string>
+    <string name="the_second_pin">the second PIN</string>
+    <string name="the_third_pin">the third PIN</string>
+    <string name="input_pin_time_interval">input PIN time interval</string>
+    <string name="PIN_is_empty">You did not enter any PIN and the app does not automatically input the PIN.</string>
+    <string name="apply_success">Save settings successfully.</string>
+    <string name="apply_fail">Save settings failed.Please check if this application is given Root privileges.</string>
+    <string name="apply">apply</string>
+</resources>
